@@ -1,5 +1,5 @@
 # Welcome Heina-effect 🦋
-![Heina's GitHub stats](https://github-readme-stats.vercel.app/api?username=heina-effect&theme=prussian&show_icons=true&theme=radical)(https://github.com/heina-effect)
+![Heina's GitHub stats](https://github-readme-stats.vercel.app/api?username=heina-effect&theme=prussian&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heina-effect&layout=compact)](https://github.com/heina-effect)
 
 ## Skills 🚀
