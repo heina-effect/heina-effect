@@ -25,6 +25,12 @@
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
+<h3 align="center">Heina blog</h3>
+<p align="center">
+<a href="https://velog.io/@heina-effect" >✨ click me ✨</a>
+</p>
+                  
+                  
 <!--
 **heina-effect/heina-effect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
